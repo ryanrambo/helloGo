@@ -1,6 +1,7 @@
 # helloGo
 # in terminal enter
 touch hello.go
+
 open -e hello.go
 # text editor will open, then enter
 package main
